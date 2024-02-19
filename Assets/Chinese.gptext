@@ -1,0 +1,10 @@
+{
+	"TextMap":{
+		"PauseTitle": "暂停",
+		"ResumeButton": "再开",
+		"QuitButton": "退出",
+		"QuitText": "真的要退出吗?",
+		"OKButton": "OK",
+		"CancelButton": "取消"
+	}
+}

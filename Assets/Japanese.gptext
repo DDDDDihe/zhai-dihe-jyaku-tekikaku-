@@ -1,0 +1,10 @@
+{
+	"TextMap":{
+		"PauseTitle": "一時停止",
+		"ResumeButton": "再開する",
+		"QuitButton": "退出する",
+		"QuitText": "本当に退出するか?",
+		"OKButton": "OK",
+		"CancelButton": "キャンセル"
+	}
+}
